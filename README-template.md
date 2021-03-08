@@ -1,4 +1,4 @@
-# Put title of your app here
+# Jetime
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
@@ -6,12 +6,11 @@
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+Jetime is simple countdown timer built using the Jetpack Compose.
 
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+Jetime is built around the focus on using the state and animation in Jetpack Compose
 
 
 ## :camera_flash: Screenshots
