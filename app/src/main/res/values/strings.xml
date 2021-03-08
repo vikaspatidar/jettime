@@ -9,5 +9,9 @@
       or implied. See the License for the specific language governing permissions and limitations under
       the License.
       -->
-    <string name="app_name">AndroidDevChallenge</string>
+    <string name="app_name">JETIME</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_start">Start</string>
+    <string name="button_up">Up</string>
+    <string name="button_down">Down</string>
 </resources>

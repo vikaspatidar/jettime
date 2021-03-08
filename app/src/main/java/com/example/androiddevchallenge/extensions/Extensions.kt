@@ -13,21 +13,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.androiddevchallenge.ui.theme
+package com.example.androiddevchallenge.extensions
 
-import androidx.compose.ui.graphics.Color
-
-val primary = Color(0xFF53364E)
-val primaryVariant = Color(0xFF32112C)
-
-val secondary = Color(0xFFFFAB91)
-val secondaryVariant = Color(0xFFF39173)
-
-val primaryDark = Color(0xFF53364E)
-val primaryVariantDark = Color(0xFF32112C)
-
-val secondaryDark = Color(0xFFFFAB91)
-val secondaryVariantDark = Color(0xFFF39173)
-
-val surfaceLight = Color(0xFFF9F3E7)
-val surfaceDark = Color(0xFF1C091A)
+fun Int.format(n: Int): String {
+    return String.format("%0${n}d", this)
+}
